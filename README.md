@@ -16,6 +16,11 @@ References:
     Arrays," 2018 IEEE International Conference on Acoustics, Speech and
     Signal Processing (ICASSP), 2018, pp. 506-510, doi:
     10.1109/ICASSP.2018.8461297.
+
+[3]. ZHAO, Xudong, et al. On the Design of 3D Steerable Beamformers with
+    Uniform Concentric Circular Microphone Arrays. IEEE/ACM Transactions on
+    Audio, Speech, and Language Processing, 2021.
+
     
 To be continued
 
