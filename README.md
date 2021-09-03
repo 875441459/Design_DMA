@@ -1,6 +1,6 @@
-# Design_DMA
+# Design FIB beamformer
 
-This is a repository containing the function of designing the Circular/Linear Differential Microphone Array (DMA) Beamformer.
+This is a repository containing the function of designing the Circular/Linear frequency-invariant Beamformer(FIB).
 
 
 References:
